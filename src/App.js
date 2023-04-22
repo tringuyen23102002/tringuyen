@@ -33,6 +33,8 @@ function App() {
         
         <h1>{x}</h1>
         <h1>Up len lan 2</h1>
+        <h1>Up len lan 3</h1>
+        <h1>Up len lan 4</h1>
         <h1>name: {text}</h1>
         <h1>Full Name: {student["name"]}, Tuoi: {student.old} {" "}</h1>
         <button onClick={handle_Increase}>Increase</button>
